@@ -1,4 +1,4 @@
-# Logictic Regression
+# Logistic Regression
 
 My implementation of logistic regression in python.
 
